@@ -1,0 +1,5 @@
+{
+  "name": "SiliconFloorplanner AI",
+  "description": "An intelligent chip area estimation tool that visualizes design hierarchies based on register and memory counts, using AI to refine architecture estimates.",
+  "requestFramePermissions": []
+}
